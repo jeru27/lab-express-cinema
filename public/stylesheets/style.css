@@ -6,3 +6,18 @@ body {
 a {
   color: #00B7FF;
 }
+
+.uk-background-cover {
+  background-image: url("/images/cinema.jpg");
+  height: 100vh;
+  text-align: center;
+}
+
+h1 {
+  font-size: 4rem;
+  margin-top: 30px;
+}
+.uk-card img {
+  width: 30vh;
+  margin: 50px 50px 0;
+}
